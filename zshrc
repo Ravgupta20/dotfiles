@@ -4,4 +4,6 @@ export LSCOLORS=GxFxCxDxBxegedabagaced
 
 # Customize your prompt (Shows: username @ machine in blue, then path)
 PROMPT='%F{blue}%n@%m %F{green}%1~ %F{white}$ %f'
+alias ..="cd .."
+alias ...="../.."
 
