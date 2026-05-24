@@ -6,4 +6,7 @@ export LSCOLORS=GxFxCxDxBxegedabagaced
 PROMPT='%F{blue}%n@%m %F{green}%1~ %F{white}$ %f'
 alias ..="cd .."
 alias ...="../.."
-
+alias prj="cd ~/Desktop/projects/"
+alias pven="python3 -m venv .venv"
+alias pvena="source .venv/bin/activate"
+alias n="nvim"
