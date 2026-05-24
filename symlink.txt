@@ -1,0 +1,9 @@
+# Link your Zsh config
+ln -s ~/dotfiles/zshrc ~/.zshrc
+
+# Link your Tmux config
+ln -s ~/dotfiles/tmux.conf ~/.tmux.conf
+
+# Link your Neovim folder
+ln -s ~/dotfiles/nvim ~/.config/nvim
+
