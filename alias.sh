@@ -1,0 +1,8 @@
+alias gs="git status"
+alias ga="git add"
+alias gc="git commit"
+alias gp="git push"
+alias gcm="git commit -m"
+alias gd="git diff"
+alias gl="git log --oneline"
+alias gb="git branch"

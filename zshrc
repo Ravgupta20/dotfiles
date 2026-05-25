@@ -10,3 +10,7 @@ alias prj="cd ~/Desktop/projects/"
 alias pven="python3 -m venv .venv"
 alias pvena="source .venv/bin/activate"
 alias n="nvim"
+alias chm="chmod +x"
+source ~/dotfiles/alias.sh
+source ~/dotfiles/cheatsheet.sh
+
